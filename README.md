@@ -1,21 +1,12 @@
-# Minhas Obras ✍️ / My Works ✍️
+# Olá
 
-![Banner Literário](https://your-image-link-here.com/banner.jpg) <!-- Adicione um link para uma imagem de banner -->
+## Apresentação / Introduction
 
-## Navegação / Navigation
+Olá, sou **Anisio Beaumont**, um **programador em tempo integral** navegando nas intricadas linhas de código, onde cada `if` e `else` se entrelaçam como os destinos humanos. Em um mundo digital onde a lógica é poesia e a tecnologia é arte, busco constantemente soluções que transcendam o ordinário. Acredito que, assim como na **programação**, a vida é uma série de **funções** interconectadas, onde cada chamada ao método revela um novo aspecto de nossa existência.
 
-- [Sobre Mim / About Me](#sobre-mim--about-me)
-- [Conteúdo / Content](#conteúdo--content)
-- [Direitos Autorais / Copyright](#direitos-autorais--copyright)
-- [Licença / License](#licença--license)
-- [Contato / Contact](#contato--contact)
+Além de **escrever algoritmos**, também me perco nas páginas da literatura. Meus textos, como um **loop infinito**, exploram os labirintos da melancolia e introspecção, capturando momentos efêmeros que dançam na luz da consciência. Ao criar narrativas, cada palavra se torna uma variável, cada parágrafo um **objeto** que vive e respira em um universo próprio, refletindo a complexidade da experiência humana.
 
-<details>
-<summary>🌟 Português</summary>
-
-Sou um escritor em início de carreira, explorando o mundo da literatura e expressando emoções por meio das palavras. Minhas obras refletem temas de melancolia, solidão e as complexidades da experiência humana.
-
-![Eu escrevendo](https://media.giphy.com/media/3oz8xOe6p0bI72hGnG/giphy.gif) <!-- Adicione um link para um GIF que represente você escrevendo -->
+Enquanto o código pode ser exato e impessoal, a **escrita** é um campo onde a **criatividade** se encontra com a precisão, onde o sentimento se expressa em cada **função** chamada. Estou sempre em busca de novos **desafios** e **aprendizados**, tanto no vasto oceano da tecnologia quanto nas profundezas da literatura. Se você também navega por esses mares, convido você a se conectar e explorar juntos as infinitas possibilidades da criatividade.
 
 ### Conteúdo
 
@@ -25,49 +16,6 @@ Este repositório contém:
 - **Contos**: Narrativas curtas que abordam diversos temas e personagens.
 - **Reflexões**: Textos que capturam meus pensamentos sobre a vida e a escrita.
 
-### Direitos Autorais
-
-Todo o conteúdo presente neste repositório é de minha autoria e está protegido por direitos autorais. Qualquer reprodução ou uso não autorizado será considerado uma violação da lei.
-
 ### Licença
 
 Este repositório é licenciado sob a [Licença Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/) (ou escolha outra licença que você preferir). Por favor, leia a licença para entender como você pode usar meu trabalho.
-
-### Contato
-
-Se você tiver alguma pergunta ou feedback, sinta-se à vontade para me contatar pelo e-mail: [seuemail@example.com](mailto:seuemail@example.com).
-
-Agradeço por visitar meu repositório e espero que você aproveite a leitura! 🎉
-
-</details>
-
-<details>
-<summary>🌟 English</summary>
-
-I am a writer at the beginning of my career, exploring the world of literature and expressing emotions through words. My works reflect themes of melancholy, solitude, and the complexities of the human experience.
-
-![Writing](https://media.giphy.com/media/3oz8xOe6p0bI72hGnG/giphy.gif) <!-- Adicione um link para um GIF que represente você escrevendo -->
-
-### Content
-
-This repository contains:
-
-- **Poems**: A selection of poems that explore feelings and personal experiences.
-- **Short Stories**: Brief narratives that address various themes and characters.
-- **Reflections**: Texts that capture my thoughts on life and writing.
-
-### Copyright
-
-All content in this repository is my original work and is protected by copyright. Any unauthorized reproduction or use will be considered a violation of the law.
-
-### License
-
-This repository is licensed under the [Creative Commons License](https://creativecommons.org/licenses/by-nc-nd/4.0/) (or choose another license you prefer). Please read the license to understand how you can use my work.
-
-### Contact
-
-If you have any questions or feedback, feel free to contact me at: [yourname@example.com](mailto:yourname@example.com).
-
-Thank you for visiting my repository, and I hope you enjoy reading! 🎉
-
-</details>
