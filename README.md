@@ -1,6 +1,6 @@
 # Olá
 
-## Apresentação / Introduction
+##
 
 Olá, sou **Anisio Beaumont**, um **programador em tempo integral** navegando nas intricadas linhas de código, onde cada `if` e `else` se entrelaçam como os destinos humanos. Em um mundo digital onde a lógica é poesia e a tecnologia é arte, busco constantemente soluções que transcendam o ordinário. Acredito que, assim como na **programação**, a vida é uma série de **funções** interconectadas, onde cada chamada ao método revela um novo aspecto de nossa existência.
 
